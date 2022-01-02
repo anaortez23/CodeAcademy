@@ -1,6 +1,7 @@
 # CodeAcademy
 
 Course Description
+
 Learn the JavaScript fundamentals you’ll need for front-end or back-end development.
 
 Why Learn JavaScript?
